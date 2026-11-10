@@ -4,6 +4,6 @@ The support, privacy, and terms pages for **TapBPM - Tap Tempo Counter**, a free
 
 Live pages (after GitHub Pages is turned on):
 
-- Support — `https://jphan-dev.github.io/tapbpm/`
-- Privacy Policy — `https://jphan-dev.github.io/tapbpm/privacy.html`
-- Terms of Use — `https://jphan-dev.github.io/tapbpm/terms.html`
+- Support — `https://jphan-dev.github.io/tapbpm---Tap-Tempo-Counter/`
+- Privacy Policy — `https://jphan-dev.github.io/tapbpm---Tap-Tempo-Counter/privacy.html`
+- Terms of Use — `https://jphan-dev.github.io/tapbpm---Tap-Tempo-Counter/terms.html`
