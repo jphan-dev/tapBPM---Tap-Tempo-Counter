@@ -2,7 +2,6 @@
 
 The support, privacy, and terms pages for **TapBPM - Tap Tempo Counter**, a free tap tempo app for iPhone.
 
-Live pages (after GitHub Pages is turned on):
 
 - Support — `https://github.com/jphan-dev/tapBPM---Tap-Tempo-Counter/blob/main/index.html`
 - Privacy Policy — `https://github.com/jphan-dev/tapBPM---Tap-Tempo-Counter/blob/main/privacy.html`
